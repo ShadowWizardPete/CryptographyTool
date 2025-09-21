@@ -1,0 +1,24 @@
+Proprietary Software License Agreement
+Copyright (c) 2025 Pietro Vota. All rights reserved.
+
+License Grant
+The software is licensed, not sold. You are granted a limited, non-exclusive, non-transferable license to use the software solely for your personal, non-commercial purposes.
+
+Restrictions
+You may not:
+Copy, modify, distribute, sublicense, or create derivative works of the software
+Use the software for commercial purposes without prior written authorization
+Remove or alter any proprietary notices in the software
+
+Ownership
+All rights, title, and interest in and to the software (including all intellectual property rights) remain with Pietro Vota.
+
+Disclaimer of Warranty
+The software is provided “as is” without warranties of any kind, express or implied.
+
+Limitation of Liability
+In no event shall Pietro Vota be liable for any damages arising out of use or inability to use the software.
+
+Contact Information
+For permissions, licensing inquiries, or other questions, please contact:
+Email: pietrovota@gmail.com
